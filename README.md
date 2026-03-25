@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Animated Typing Effect -->
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="280px" alt="coding gif" />
+  <img src="https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI" width="280px" alt="coding gif" />
   
   <h2>✨ Turning Coffee into Code ✨</h2>
   
