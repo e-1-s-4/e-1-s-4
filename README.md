@@ -43,19 +43,19 @@ I'm a passionate developer who loves building amazing things that make people go
 
 ## 🌈 Featured Projects
 
-*(Note: Click the links below to explore my recent work)*
+*(Click the links below to explore my recent work)*
 
 | 🎨 **Interactive Canvas Art Generator** | 🎵 **Pure CSS Music Visualizer** |
 | :--- | :--- |
 | Create stunning generative art with your mouse! Features real-time particle effects, color theory algorithms, and high-res PNG export. | Experience music like never before with this audio-reactive visualizer built entirely with CSS variables and animations. No JS required! |
 | **Tech:** `HTML5 Canvas` `WebGL` `GSAP` | **Tech:** `CSS3` `HTML5 Audio API` |
-| [🔗 View Demo](#) • [💻 Source Code](#) | [🔗 View Demo](#) • [💻 Source Code](#) |
+| [🔗 View Demo](https://e-1-s-4.github.io/Interactive-Canvas-Art-Generator/) • [💻 Source Code](https://github.com/e-1-s-4/Interactive-Canvas-Art-Generator) | [🔗 View Demo](https://e-1-s-4.github.io/Pure-CSS-Music-Visualizer/) • [💻 Source Code](https://github.com/e-1-s-4/Pure-CSS-Music-Visualizer) |
 
 | 🤖 **AI-Powered Code Companion** | 🌌 **Your Next Big Project** |
 | :--- | :--- |
-| Your personal coding assistant that suggests improvements, finds bugs, and writes documentation using NLP. | *Currently brewing in my code editor...* Stay tuned for something awesome! |
-| **Tech:** `Node.js` `TensorFlow.js` `OpenAI` | **Tech:** `Imagination` `Coffee` |
-| [🔗 View Demo](#) • [💻 Source Code](#) | [🔗 View Demo](#) • [💻 Source Code](#) |
+| Your personal coding assistant that suggests improvements, finds bugs, and writes documentation using NLP directly in the browser. | *Currently brewing in my code editor...* Stay tuned for something awesome! |
+| **Tech:** `Vanilla JS` `OpenAI API` `Marked.js` | **Tech:** `Imagination` `Coffee` |
+| [🔗 View Demo](https://e-1-s-4.github.io/AI-Powered-Code-Companion/) • [💻 Source Code](https://github.com/e-1-s-4/AI-Powered-Code-Companion) | [🔗 View Demo](#) • [💻 Source Code](#) |
 
 ---
 
