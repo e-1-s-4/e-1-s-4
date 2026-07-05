@@ -1,38 +1,131 @@
+<div align="center">
+
 # Hey, I'm e-1-s-4 👋
 
-<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="400">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+things+to+learn.;Breaking+things+to+understand.;Python+%7C+TypeScript+%7C+JavaScript.;Homelab+%7C+Security+%7C+Open+Source." />
 
-I write code, break it, figure out why, and usually end up learning more from the breaking than the building.
+<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="420"/>
 
-## What I'm into
-
-I bounce between projects — sometimes security-adjacent tooling, sometimes front-end experiments, sometimes just something I wanted to exist. Lately that's meant:
-
-- **[baitbox](https://github.com/e-1-s-4/baitbox)** — a lightweight honeypot for homelabbers, built to trap attackers in a fake filesystem and watch what they do
-- **[FamilyFinance](https://github.com/e-1-s-4/FamilyFinance)** — a personal/family budget tracker I built because spreadsheets weren't cutting it
-- **[biolink-pro](https://github.com/e-1-s-4/biolink-pro)** and **[nexuspro](https://github.com/e-1-s-4/nexuspro)** — a couple of JS/TS projects in progress
-
-I mostly work in Python, JavaScript, and TypeScript, with some HTML/CSS thrown in whenever I want something to actually look decent.
-
-## Stats
-
-![e-1-s-4's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-1-s-4&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-1-s-4&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=e-1-s-4)
-
-## How I work
-
-I like small, useful tools over big frameworks — things that solve a specific annoyance rather than trying to do everything. If I'm not sure how something works, I'll usually just build a rough version of it to find out.
-
-## Talk to me about
-
-Homelab security, budgeting apps nobody asked for, or why my last deploy broke something unrelated.
+</div>
 
 ---
 
-Feel free to poke around the repos — most of them started as "let me just see if I can do this."
+## About me
 
-![Profile views](https://komarev.com/ghpvc/?username=e-1-s-4&color=blue)
+I like building small tools that solve real problems.
 
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="150">
+Most of my projects start with:
 
+> "I wonder how this works..."
+
+...and usually end with me accidentally learning far more than I expected.
+
+You'll mostly find me working on:
+
+- 🔒 Security & homelab tooling
+- 🐍 Python automation
+- ⚡ JavaScript / TypeScript apps
+- 🧪 Random experiments that somehow become full projects
+
+---
+
+## Featured Projects
+
+### 🪤 baitbox
+A lightweight honeypot built for homelab environments.
+
+- fake filesystem
+- attacker interaction logging
+- simple deployment
+- built to observe, not block
+
+---
+
+### 💰 FamilyFinance
+A budgeting app built because spreadsheets eventually become painful.
+
+- transaction tracking
+- family budgeting
+- clean interface
+- self-host friendly
+
+---
+
+### 🚀 Currently Building
+
+- biolink-pro
+- nexuspro
+
+---
+
+## Tech I use
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,html,css,git,github,linux,vscode,bash" />
+
+</p>
+
+---
+
+## GitHub
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=e-1-s-4&show_icons=true&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-1-s-4&layout=compact&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=e-1-s-4&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=e-1-s-4&hide_border=true"/>
+
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=e-1-s-4&theme=flat&no-frame=true&column=6"/>
+
+</p>
+
+---
+
+## Philosophy
+
+I prefer building something small that works well over something huge that tries to solve everything.
+
+If I don't understand a technology, I'll probably build one just to figure out how it works.
+
+---
+
+## Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
+
+</p>
+
+---
+
+<div align="center">
+
+*"Every project is just another excuse to learn something new."*
+
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="180"/>
+
+![](https://komarev.com/ghpvc/?username=e-1-s-4&style=flat-square)
+
+</div>
