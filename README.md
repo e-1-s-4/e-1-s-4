@@ -94,13 +94,7 @@ A budgeting app built because spreadsheets eventually become painful.
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=e-1-s-4&theme=flat&no-frame=true&column=6"/>
-
-</p>
+here
 
 ---
 
