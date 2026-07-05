@@ -4,7 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+things+to+learn.;Breaking+things+to+understand.;Python+%7C+TypeScript+%7C+JavaScript.;Homelab+%7C+Security+%7C+Open+Source." />
 
-<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="420"/>
+<p align="center">
+<img src="https://github-readme-terminal.vercel.app/api?username=e-1-s-4&theme=tokyonight" />
+</p>
 
 </div>
 
