@@ -93,7 +93,6 @@ A budgeting app built because spreadsheets eventually become painful.
 </p>
 
 ---
-
 ░▒▓████████▓▒░▒▓█▓▒░░▒▓███████▓▒░▒▓█▓▒░░▒▓█▓▒░      
 ░▒▓█▓▒░   ░▒▓████▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░      
 ░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░      
@@ -101,9 +100,6 @@ A budgeting app built because spreadsheets eventually become painful.
 ░▒▓█▓▒░      ░▒▓█▓▒░      ░▒▓█▓▒░      ░▒▓█▓▒░      
 ░▒▓█▓▒░      ░▒▓█▓▒░      ░▒▓█▓▒░      ░▒▓█▓▒░      
 ░▒▓████████▓▒░▒▓█▓▒░▒▓███████▓▒░       ░▒▓█▓▒░      
-                                                    
-                                                    
-
 ---
 
 ## Philosophy
