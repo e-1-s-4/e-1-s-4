@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm e-1-s-4</h1>
-<h3 align="center">✨ Crafting Interactive Web Experiences & Turning Coffee into Code ✨</h3>
 
 <p align="center">
   <a href="https://github.com/e-1-s-4">
