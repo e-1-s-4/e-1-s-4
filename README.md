@@ -74,8 +74,10 @@ A budgeting app built because spreadsheets eventually become painful.
 
 ## GitHub
 
-<p align="center">
 [![](https://ghstats.dev/api/sparkline?username=e-1-s-4&days=30&width=420)](https://github.com/e-1-s-4/GitHub-profile-stats)
+
+<p align="center">
+
 <img src="https://streak-stats.demolab.com?user=e-1-s-4&hide_border=true"/>
 
 
@@ -124,3 +126,6 @@ If I don't understand a technology, I'll probably build one just to figure out h
 ![](https://komarev.com/ghpvc/?username=e-1-s-4&style=flat-square)
 
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=footer"  />
+</p>
