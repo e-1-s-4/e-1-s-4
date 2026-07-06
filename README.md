@@ -74,14 +74,6 @@ A budgeting app built because spreadsheets eventually become painful.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=e-1-s-4&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-1-s-4&layout=compact&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://streak-stats.demolab.com?user=e-1-s-4&hide_border=true"/>
 
 </p>
