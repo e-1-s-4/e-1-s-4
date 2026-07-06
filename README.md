@@ -75,8 +75,9 @@ A budgeting app built because spreadsheets eventually become painful.
 ## GitHub
 
 <p align="center">
-
+[![](https://ghstats.dev/api/sparkline?username=e-1-s-4&days=30&width=420)](https://github.com/e-1-s-4/GitHub-profile-stats)
 <img src="https://streak-stats.demolab.com?user=e-1-s-4&hide_border=true"/>
+
 
 </p>
 
