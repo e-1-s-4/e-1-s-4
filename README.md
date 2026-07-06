@@ -29,6 +29,8 @@ You'll mostly find me working on:
 - ⚡ JavaScript / TypeScript apps
 - 🧪 Random experiments that somehow become full projects
 
+[![](https://ghstats.dev/api/card?username=e-1-s-4&theme=tokyonight)](https://github.com/e-1-s-4/GitHub-profile-stats)
+
 ---
 
 ## Featured Projects
