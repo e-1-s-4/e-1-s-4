@@ -105,6 +105,8 @@ I prefer building something small that works well over something huge that tries
 
 If I don't understand a technology, I'll probably build one just to figure out how it works.
 
+10 Years on GitHub.
+
 ---
 
 ## Random Dev Quote
