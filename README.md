@@ -31,7 +31,7 @@ You'll mostly find me working on:
 
 [![](https://ghstats.dev/api/card?username=e-1-s-4&theme=tokyonight)](https://github.com/e-1-s-4/GitHub-profile-stats)
 [![](https://ghstats.dev/api/sparkline?username=YOUR_USERNAME&days=30&width=420)](https://github.com/rowkav09/GitHub-profile-stats)
-[![](https://readme-stats-github.pages.dev/api/top-langs?username=e-1-s-4&theme=shadow&hide_border=true&layout=compact&count_private=true)
+[![](https://readme-stats-github.pages.dev/api/top-langs?username=e-1-s-4&theme=shadow&hide_border=true&layout=compact&count_private=true)]
 ---
 
 ## Featured Projects
