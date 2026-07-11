@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+things+to+learn.;Breaking+things+to+understand.;Python+%7C+TypeScript+%7C+JavaScript.;Homelab+%7C+Security+%7C+Open+Source." />
-
-# Hey, I'm E1S4 👋
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+E1S4+%F0%9F%91%8B;Building+things+to+learn.;Breaking+things+to+understand.;Python+%7C+TypeScript+%7C+JavaScript.;Homelab+%7C+Security+%7C+Open+Source." />
 
 <p align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGt6MGUwM2xpcTB0M2V5ZXN2eXp0azI3NHVtaHJrOGtkMXhoM2NtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxY9kuM2NGUfvThe/giphy.gif" />
